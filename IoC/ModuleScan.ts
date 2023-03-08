@@ -3,7 +3,6 @@ export class ModuleScan{
     constructor() {
         
     }
-
     async ScanAndImport(modulePath: string) {
         return await importModule(modulePath)
     }
