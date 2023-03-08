@@ -1,6 +1,4 @@
-export class HelloService{
-    constructor()
-    {
-
-    }
+export class HelloService {
+  constructor() {
+  }
 }

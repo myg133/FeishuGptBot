@@ -1,2 +1,1 @@
-export { IoContainer} from "./IoContainer.ts"
-export { ModuleScan} from "./ModuleScan.ts"
+export { IoContainer } from "./IoContainer.ts";

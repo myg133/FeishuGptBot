@@ -1,1 +1,1 @@
-export {GetRouter} from "./RouterExt.ts"
+export { GetRouter } from "./RouterExt.ts";
